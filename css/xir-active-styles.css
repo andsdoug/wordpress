@@ -1,0 +1,54 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> Colophon ast builder grid row tablet full **/
+#colophon > .ast-builder-grid-row-tablet-full {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+
+/** Rodapé >> Colophon ast builder grid row tablet 3 equal **/
+#colophon > .ast-builder-grid-row-tablet-3-equal {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+
+/** Rodapé >> Ast desktop header ast builder grid row container **/
+#ast-desktop-header .ast-builder-grid-row-container {
+	padding-right: 20px !important;
+	padding-left: 20px !important;
+}
+
+/** Rodapé >> Ast desktop header ast primary header bar **/
+#ast-desktop-header .ast-primary-header-bar {
+	height: 90px !important;
+}
+
+/** Rodapé >> Wpcf7 f154 p243 o1 wpcf7 form **/
+#wpcf7-f154-p243-o1 > .wpcf7-form {
+	font-size: 30px !important;
+}
+
+
+/*( Desktop e tablet )*/
+@media (min-width: 768px) and (max-width: 979px) {
+
+	/*= Rodapé =================== */
+
+	/** Rodapé >> Ast desktop header ast primary header bar **/
+	#ast-desktop-header .ast-primary-header-bar {
+	
+}
+
+	/** Rodapé >> Wpcf7 f154 p243 o1 wpcf7 form **/
+	#wpcf7-f154-p243-o1 > .wpcf7-form {
+	font-size: 50px !important;
+}
+
+
+}
+
+
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
